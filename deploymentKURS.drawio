@@ -112,7 +112,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wZhwh8XhNNYU95tNjidS-47" value="Fysisk server (onprem)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="545" y="488" width="222" height="36" as="geometry" />
+          <mxGeometry x="498" y="486" width="222" height="36" as="geometry" />
         </mxCell>
         <mxCell id="wZhwh8XhNNYU95tNjidS-48" value="I skyen (vercel, Azure, AWS, ...)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="11" y="474" width="300" height="40" as="geometry" />
@@ -128,6 +128,9 @@
         </mxCell>
         <mxCell id="wZhwh8XhNNYU95tNjidS-40" value="Node&lt;div&gt;ExpressJS&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="581" y="604" width="95" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="wZhwh8XhNNYU95tNjidS-50" value="I skyen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="870" y="545" width="81" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
