@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Page-1" id="lrx0XXhlTJY8DyY93Emj">
-    <mxGraphModel dx="1957" dy="1483" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3468" dy="1700" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,6 +131,24 @@
         </mxCell>
         <mxCell id="wZhwh8XhNNYU95tNjidS-50" value="I skyen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="870" y="545" width="81" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="wZhwh8XhNNYU95tNjidS-51" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-942" y="-210" width="330" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="wZhwh8XhNNYU95tNjidS-52" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;SERVER - Frontend&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="wZhwh8XhNNYU95tNjidS-51">
+          <mxGeometry width="330" height="205" as="geometry" />
+        </mxCell>
+        <mxCell id="wZhwh8XhNNYU95tNjidS-53" value="index.html" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="wZhwh8XhNNYU95tNjidS-51">
+          <mxGeometry x="130" y="80" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wZhwh8XhNNYU95tNjidS-54" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;KLIENT:&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Nettleser&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-1232" y="-218" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="wZhwh8XhNNYU95tNjidS-55" value="Fysisk server (onprem)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-888" y="-242" width="222" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="wZhwh8XhNNYU95tNjidS-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=92.5;entryPerimeter=0;" edge="1" parent="1" source="wZhwh8XhNNYU95tNjidS-54" target="wZhwh8XhNNYU95tNjidS-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
